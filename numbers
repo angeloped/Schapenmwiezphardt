@@ -1,0 +1,119 @@
+
+Numbers:
+
+(range: 0 – 10)
+0 – nol
+1 – ozn
+2 – do
+3 – tri
+4 – vad
+5 – vid
+6 – ses
+7 – sev
+8 – okt
+9 – non
+10 – zye
+
+(range: 11 – 19)
+11 – zyeozn
+12 – zyedo
+13 – zyetri
+14 – zyevad
+15 – zyevid
+16 – zyeses
+17 – zyesev
+18 – zyeokt
+19 – zyenon
+
+(range: 20 – 29)
+20 – dozye
+21 – dozyenov
+22 – dozyedo
+23 – dozyetri
+24 – dozyevad
+25 – dozyevid
+26 – dozyeses
+27 – dozyesev
+28 – dozyeokt
+29 – dozyenon
+
+(range: 30 – 90)
+30 – trizye
+40 – vadzye
+50 – vidzye
+60 – seszye
+70 – sevzye
+80 – oktzye
+90 – nonzye
+
+(range: 100 - 120 [n%10])
+100 – ozndan
+110 – ozndanzye
+120 – ozndandozye
+
+
+
+(range: 10E+2 – 10E+33)
+ozndan     – 100
+oznmil     – 1,000
+oznmilzen  – 1,000,000
+oznvilzen  – 1,000,000,000
+ozntrilzen – 1,000,000,000,000
+oznvadlzen – 1,000,000,000,000,000
+oznvidlzen – 1,000,000,000,000,000,000
+oznseslzen – 1,000,000,000,000,000,000,000 
+oznsevlzen – 1,000,000,000,000,000,000,000,000
+oznoktlzen – 1,000,000,000,000,000,000,000,000,000
+oznnonlzen – 1,000,000,000,000,000,000,000,000,000,000
+oznzelzen  – 1,000,000,000,000,000,000,000,000,000,000,000
+oznazelzen – 1,000,000,000,000,000,000,000,000,000,000,000,000
+
+
+
+
+Base10   Place Value
+
+10E+2    hundreds      -  –dan______________________________________________________
+10E+3    thousands     -  –mil__________________________________________________    |
+10E+6    millions      -  –milzen___________________________________________    |   |
+10E+9    billions      -  –vilzen_______________________________________    |   |   |
+10E+12   trillions     -  –trilzen__________________________________    |   |   |   |
+10E+15   quadrillions  -  –vadlzen______________________________    |   |   |   |   |
+10E+18   quintillions  -  –vidlzen__________________________    |   |   |   |   |   |
+10E+21   sextillions   -  –seslzen______________________    |   |   |   |   |   |   |
+10E+24   septillion    -  –sevlzen__________________    |   |   |   |   |   |   |   |
+10E+27   octillions    -  –oktlzen______________    |   |   |   |   |   |   |   |   |
+10E+30   nonillions    -  –nonlzen__________    |   |   |   |   |   |   |   |   |   |
+10E+33   decillions    -  –zyelzen______    |   |   |   |   |   |   |   |   |   |   |
+10E+36   undecillions  -  –azelzen___   |   |   |   |   |   |   |   |   |   |   |  /
+                                     |  |   |   |   |   |   |   |   |   |   |   |  v  
+                                     1,000,000,000,000,000,000,000,000,000,000,000,000 -
+                                                                                    YY T
+                                                                                    || |___nol - zero 0
+                                                                                    ||_____ozn - ones 10E0
+                                                                                    |______ze  - tens 10E+1
+
+Big Numbers:
+duodecillionths       10E+39
+tredecillionths       10E+42
+quattuordecillionths  10E+45
+quindecillionths      10E+48
+sexdecillionths       10+51
+septemdecillionths    10+54
+octodecillionths      10+57
+novemdecillionths     10+60
+vigintillionths       10+63
+
+
+
+Decimal (nth) Places:
+* Just use a suffix (-t)
+
+
+
+Negative integers:
+
+-3 -- -2 -- -1 -- 0 -- 1 -- 2 -- 3
+
+
+

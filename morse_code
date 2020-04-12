@@ -1,0 +1,73 @@
+Morse Kowd
+
+Vowels:
+
+Λα  .--
+Σe  .
+Ii  ..
+Uu  ..-
+Oo  ---
+
+Consonants:
+
+Vv  ...-
+Δd  -..
+Ff  ..-.
+Γȷ  --.
+Хh  ....
+Kk  -.-
+Lι  .-..
+Mμ  --
+Ոn  -.
+Пп  .--.
+Rπ  .-.
+Сс  ...
+Tt  -
+Цц  .--
+Yy  -.--
+Zz  --..
+
+
+
+
+Latin Morse Binary Tree:
+
+      T                  E
+  M       N         A          I
+O   G   K   D     W   R     U     S
+    Z   Y         P   L     F    V H
+
+
+
+Sshap. Morse Binary Tree:
+
+      Tt                  Σe
+  Mμ       Ոn        Λα        Ii
+Oo  Γȷ   Kk  Δd    Цц  Rπ   Uu    Сс
+    Zz   Yy        Пп  Lι   Ff   Vv Хh
+
+
+
+"JSON Dictionary"
+sshapenmwiezphardt = {
+  "Λα":".--", "Σe":".", "Ii":"..", "Uu":"..-", "Oo":"---", "Vv":"...-", "Δd":"-..",
+  "Ff":"..-.", "Γȷ":"--.", "Хh":"....", "Kk":"-.-", "Lι":".-..", "Mμ":"--", "Ոn":"-.",
+  "Пп":".--.", "Rπ":".-.", "Сс":"...", "Tt":"-", "Цц":".--", "Yy":"-.--", "Zz":"--.."
+};
+
+
+Number 0-9:
+
+1  .----
+2  ..---
+3  ...--
+4  ....-
+5  .....
+6  -....
+7  --...
+8  ---..
+9  ----.
+0  -----
+
+
+
