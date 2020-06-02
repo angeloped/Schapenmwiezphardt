@@ -88,21 +88,16 @@ Base10   Place Value
 10E+36   undecillions  -  –azelzen___   |   |   |   |   |   |   |   |   |   |   |  /
                                      |  |   |   |   |   |   |   |   |   |   |   |  v  
                                      1,000,000,000,000,000,000,000,000,000,000,000,000 -
-                                                                                    YY T
-                                                                                    || |___nol - zero 0
-                                                                                    ||_____ozn - ones 10E0
-                                                                                    |______ze  - tens 10E+1
-
-Big Numbers:
-duodecillionths       10E+39
-tredecillionths       10E+42
-quattuordecillionths  10E+45
-quindecillionths      10E+48
-sexdecillionths       10+51
-septemdecillionths    10+54
-octodecillionths      10+57
-novemdecillionths     10+60
-vigintillionths       10+63
+   "Big Values"                                                                     YY T
+10E+39   duodecillions                                                              || |___nol - zero 0
+10E+42   tredecillions                                                              ||_____ozn - ones 10E0
+10E+45   quattuordecillions                                                         |______ze  - tens 10E+1
+10E+48   quindecillions
+10E+51   sexdecillions
+10E+54   septemdecillions
+10E+57   octodecillions
+10E+60   novemdecillions
+10E+63   vigintillions
 
 
 
@@ -111,9 +106,25 @@ Decimal (nth) Places:
 
 
 
-Negative integers:
+Integers:
+[NEG]  -3   -2   -1    0    1    2    3  [POS]
 
--3 -- -2 -- -1 -- 0 -- 1 -- 2 -- 3
+If negative, add "neg" before the number
+Else then, add "fos" before the number, or even without "fos"
+examples     read as
+  -40      neg vadzye
+   51      fos vidzyeozn, vidzyeozn
 
+
+
+Decimal Points:
+* If the number has a decimal point, the "." read as /dot/ (o in dog)
+examples        read as
+  21.01     dozyeozn dot zyet
+ -21.1      neg dozyeozn dot ozn
+  3.4121    tri dot vadmilt ozndant dozyeozn
+ -3.4121    neg tri dot vadmilt ozndant dozyeoznt
+
+     
 
 

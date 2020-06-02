@@ -1,0 +1,32 @@
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	</head>
+	<body>
+		<textarea id="toTrans" cols="150" rows="7" onkeydown="return false;"></textarea>
+		<script language="javascript">
+			sshapenmwiezphardt = {
+			"A":"Λ", "a":"a", "E":"Σ", "e":"e", "I":"I", "i":"i", "U":"U", "u":"u", "O":"O", "o":"o", "B":"V",
+			"b":"v", "D":"Δ", "d":"d", "F":"F", "f":"f", "G":"Γ", "g":"g", "H":"Х", "h":"h", "J":"J", "j":"j",
+			"K":"K", "k":"k", "L":"L", "l":"l", "M":"M", "m":"μ", "N":"Ո", "n":"n", "P":"П", "p":"п", "R":"R",
+			"r":"π", "S":"С", "s":"с", "T":"T", "t":"t", "W":"Ц", "w":"ц", "Y":"Y", "y":"y", "Z":"Z", "z":"z"
+			};
+
+			var tArea = document.getElementById("toTrans");
+			document.body.onclick = function(){
+				tArea.focus();
+			};
+			
+			document.body.onkeydown = function(e){
+				if(e.keyCode == 8){
+					tArea.innerHTML = tArea.innerHTML.slice(0, -1);
+				}else{
+					var chr = String.fromCharCode(e.keyCode);
+					if(/^[a-z0-9 -_\s]+$/i.test(chr)){
+						tArea.innerHTML += (chr in sshapenmwiezphardt) ? sshapenmwiezphardt[chr] : chr;
+					}
+				}
+			};
+		</script>
+	</body>
+</html>
