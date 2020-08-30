@@ -6,8 +6,8 @@ Vowels:
 Aa sounds like Ah
 Ee sounds like Eh
 Ii sounds like Ih
-Uu sounds like Oh
-Oo sounds like Oo
+Uu sounds like Oo (as in gl[ue])
+Oo sounds like Oh
 
 Consonants:
 
@@ -53,7 +53,7 @@ Jj  =  Jj
 Kk  =  Kk
 Ll  =  Ll
 Mμ  =  Mm
-Ոn  =  Nn
+Nn  =  Nn
 Пп  =  Pp
 Rπ  =  Rr
 Сс  =  Cc/Ss/Sh
@@ -76,7 +76,7 @@ We can pronounce "Vv" as "Bb" instead. And also, Vv is almost similar to the sou
 sshapenmwiezphardt = {
   "A":"Λ", "a":"a", "E":"Σ", "e":"e", "I":"I", "i":"i", "U":"U", "u":"u", "O":"O", "o":"o", "B":"V",
   "b":"v", "D":"Δ", "d":"d", "F":"F", "f":"f", "G":"Γ", "g":"g", "H":"Х", "h":"h", "J":"J", "j":"j",
-  "K":"K", "k":"k", "L":"L", "l":"l", "M":"M", "m":"μ", "N":"Ո", "n":"n", "P":"П", "p":"п", "R":"R",
+  "K":"K", "k":"k", "L":"L", "l":"l", "M":"M", "m":"μ", "N":"N", "n":"n", "P":"П", "p":"п", "R":"R",
   "r":"π", "S":"С", "s":"с", "T":"T", "t":"t", "W":"Ц", "w":"ц", "Y":"Y", "y":"y", "Z":"Z", "z":"z"
 };
 
